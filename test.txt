@@ -1,1 +1,3 @@
 This is just to test my Git configurations!
+
+Now my git is working perfectly!!
